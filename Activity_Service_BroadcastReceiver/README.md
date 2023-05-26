@@ -18,7 +18,7 @@ BCR_StringXML
 ![BCR_stringxml](https://github.com/Kang-SeoHyun/Android_app/assets/77817094/7ada24b8-2ccb-4500-91e9-0f3f079b1e03)
 
 
-##Service
+## Service
 Service_main_code
 ![serviceExample_activitymain](https://github.com/Kang-SeoHyun/Android_app/assets/77817094/6d46b846-a7b5-45e1-9cb8-389d241b8298)
 ![serviceExample_mainactivity](https://github.com/Kang-SeoHyun/Android_app/assets/77817094/82e072f8-1dd3-4902-9c7e-ce8a538f3e52)  
